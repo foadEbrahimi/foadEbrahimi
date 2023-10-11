@@ -18,7 +18,7 @@ i'm a junior Front End Developer 💻
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
   
-## Today I'm Learning  <code>![react](https://skillicons.dev/icons?i=js)</code> <code>![react](https://skillicons.dev/icons?i=php)</code>
+## Today I'm Learning  <code>![react](https://skillicons.dev/icons?i=js)</code> <code>![react](https://skillicons.dev/icons?i=mysqul)</code>
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=light)](https://skillicons.dev)
