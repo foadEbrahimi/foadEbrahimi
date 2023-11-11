@@ -21,7 +21,7 @@ i'm a junior Front End Developer 💻
 ## Today I'm Learning  <code>![react](https://skillicons.dev/icons?i=js)</code> <code>![react](https://skillicons.dev/icons?i=tailwind)</code>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github&theme=light)](https://skillicons.dev)
                    
 ### Socials
