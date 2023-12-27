@@ -1,27 +1,27 @@
 <div align="left">
-My name is Foad Ebrahimi
 
-i'm a junior Front End Developer 💻
+This is Foad Ebrahimi, a Jonior FrontEnd Developer 
 -----------------------------
 
-*   🚀  I'm currently Learning js && Tailwind
-*   🤝  I'm building a team and if you want to join, send me a message
+## 🚀  I'm currently Learning js && Vue.js
+## 🤝 I will be happy if you have any questions and ask me
 
-<a href="fwad40901@gmail.com" target="_blank" align="center">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://codepen.io/FE-Dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a>
-  <a href="https://t.me/BeFrontFace" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=28C2F9&logoColor=white&labelColor=28C2F9&style=for-the-badge" height="34" alt="codepen logo"  />
-  </a><br><br>
-<a href="https://github.com/foadEbrahimi">
-    <img src="https://github-stats-alpha.vercel.app/api?username=foadEbrahimi&cc=22272e&tc=37BCF6&ic=AE87FF&bc=AE87FF">
-</a><br><br>
+ ## My expertise
+ <img alt="Alt text" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
+ <img alt="Alt text" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
+ <img alt="Alt text" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"/>
+ <img alt="Alt text" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+ <img alt="Alt text" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+ <img alt="" src="https://img.shields.io/badge/C#-512BD4.svg?style=for-the-badge&logo=C#&logoColor=white"/>
+<br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&theme=dark)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github&theme=dark)](https://skillicons.dev)
-
-
-## Today I'm Learning  <code>![react](https://skillicons.dev/icons?i=js)</code> <code>![react](https://skillicons.dev/icons?i=tailwind)</code>
+## My social networks
+ <a href="https://www.linkedin.com/in/foadebarhimi/">
+     <img alt="Alt text" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+ </a>
+ <a href="">
+     <img alt="Alt text" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+ </a>
+ <a href="https://t.me/BeFrontFace">
+     <img alt="Alt text" src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"/>
+ </a>
