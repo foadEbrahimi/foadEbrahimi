@@ -3,7 +3,7 @@
 This is Foad Ebrahimi, a Jonior FrontEnd Developer 
 -----------------------------
 
-## 🚀  I'm currently Learning js && Vue.js
+## 🚀  I'm currently Learning ReactJs
 ## 🤝 I will be happy if you have any questions and ask me
 
  ## My expertise
@@ -13,6 +13,8 @@ This is Foad Ebrahimi, a Jonior FrontEnd Developer
  <img alt="Alt text" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
  <img alt="Alt text" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
  <img alt="" src="https://img.shields.io/badge/C#-512BD4.svg?style=for-the-badge&logo=C#&logoColor=white"/>
+ <img alt="" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+ <img alt="" src="https://img.shields.io/badge/Create%20React%20App-09D3AC.svg?style=for-the-badge&logo=Create-React-App&logoColor=white" />
 <br>
 
 ## My social networks
