@@ -62,6 +62,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="blender logo"  /> &nbsp;
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo"  />
   <img width="8" />
 
