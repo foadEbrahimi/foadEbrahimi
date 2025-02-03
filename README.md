@@ -13,7 +13,7 @@
  <a href="https://www.linkedin.com/in/foadebarhimi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://t.me/befrontface" target="_blank">
+  <a href="https://t.me/the_foadc9" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
   <a href="mailto:fwad40901@gmail.com" target="_blank">
@@ -34,6 +34,8 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=next" height="40" alt="react logo"  />
 <br/>
 
 <h3> 
