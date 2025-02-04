@@ -1,92 +1,54 @@
-<div align='left'>
-<div align='center'> 
-  <h2>
-   𝒉𝒆𝒚 𝒕𝒉𝒆𝒓𝒆  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" />
- 𝒊'𝒎 𝒇𝒐𝒂𝒅
-  </h2>
-</div> <br>
+# Hello, I'm Foad Ebrahimi! 👋
+
+### About Me
+
+I'm a passionate Front_end with a strong interest in ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white). I love exploring new technologies and leveraging them to solve real-world problems. Here, you'll find my projects, contributions, and more about my journey in the tech world.
+
+### 🌟 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=foadebrahimi&show_icons=true&theme=radical)
+
+### 👩‍💻 Skills
+
+Here are some of the technologies I'm proficient in:
+
+![Html](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+<br/>
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Shadcn](https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white)
+<br/>
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<br/>
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white)
 
 
-<!--=================================== SOCIAL MEDIA ====================================-->
-  <div align="center">
-    
+### 📂 Recent Projects
+
+Here are some of my recent projects:
+
+- [CoinFlip](https://github.com/foadEbrahimi/CoinFlip) - a Crypto Curreny LandingPage.
+- [Panto](https://github.com/foadEbrahimi/Panto_Landing) - Small Shop For Sell Furnitures.
+
+### 🔗 Connect with Me
+
  <a href="https://www.linkedin.com/in/foadebarhimi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
   </a>
   <a href="https://t.me/the_foadc9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="linkedin logo"  />
   </a>
   <a href="mailto:fwad40901@gmail.com" target="_blank">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"  />
 </a>
-</div>
 
-<h2> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8726e87d-d46b-498f-85e7-9f3fc9b86d72" height="45" alt="coffee"  /> &nbsp; I code with :  </h2> 
+Feel free to reach out if you’d like to collaborate on a project or just chat about technology!
 
-<img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=next" height="40" alt="react logo"  />
-<br/>
-
-<h3> 
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; I have basic Knowledge :  
-</h3>
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="blender logo"  /> &nbsp;
-<br/>
-
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; I have experience using tools such as :  </h3>
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/1921f9b9-413f-4e62-b1ce-b49c99cb6639" height="40" alt="react router logo"  />
-  <img width="12" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="blender logo"  /> &nbsp;
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo"  />
-  <img width="8" />
-
-
- <br/>
-
-<!--=================================== My Hobbies ====================================-->
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="35"  /> &nbsp; Hobbies & Spare Time : </h3>
-<img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/04d2cbeb-8e59-4ffe-8130-c5fb6a22aa8c" alt="GYM" width="45" height="45" /> &nbsp;  
-<img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/932d3eb9-506a-4ef8-bd05-22ed822d1d7d" alt="Camping" width="45" height="45" /> &nbsp; <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/4e2e25d7-fe5c-4c89-a0cd-7c666af89932" alt="Reading Books" width="45" /> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Music" width="40" height="40" /> <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/8b202f8d-c36e-466c-ade6-85d42cce6ff7" alt="Swimming" width="45" height="45" />
-
-<br/>
-<br/><br/>
-
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
-
-
+Thanks for stopping by! 🚀
