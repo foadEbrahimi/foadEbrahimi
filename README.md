@@ -42,7 +42,7 @@ Here are some of my recent projects:
  <a href="https://www.linkedin.com/in/foadebarhimi" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
   </a>
-  <a href="https://t.me/the_foadc9" target="_blank">
+  <a href="https://t.me/foadEbrahimii" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="linkedin logo"  />
   </a>
   <a href="mailto:fwad40901@gmail.com" target="_blank">
