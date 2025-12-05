@@ -25,6 +25,8 @@ Here are some of the technologies I'm proficient in:
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![i18next](https://img.shields.io/badge/i18next-26A69A.svg?style=for-the-badge&logo=i18next&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=Astro&logoColor=white)
 <br/>
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -36,6 +38,7 @@ Here are some of my recent projects:
 
 - [CoinFlip](https://github.com/foadEbrahimi/CoinFlip) - a Crypto Curreny LandingPage.
 - [Panto](https://github.com/foadEbrahimi/Panto_Landing) - Small Shop For Sell Furnitures.
+- [Biterno](https://github.com/foadEbrahimi/biterno) - Biterno - Crypto Exchange Market.
 
 ### 🔗 Connect with Me
 
