@@ -3,7 +3,7 @@
 **FRONTEND ENGINEER** — building products, not just interfaces.
 
 ![Status](https://img.shields.io/badge/OPEN_TO-REMOTE_ROLES-E8B04B?style=flat-square&labelColor=0A0A0B)
-![Based in](https://img.shields.io/badge/BASED_IN-KERMAN%2C_IR_%C2%B7_UTC%2B3%3A30-161617?style=flat-square&labelColor=0A0A0B)
+![Based in](https://img.shields.io/badge/BASED_IN%2C_IR_%C2%B7_UTC%2B3%3A30-161617?style=flat-square&labelColor=0A0A0B)
 ![Stack](https://img.shields.io/badge/STACK-REACT_%C2%B7_NEXT.JS_%C2%B7_TYPESCRIPT-161617?style=flat-square&labelColor=0A0A0B)
 
 > **CORE FOCUS** — clean, fast, scalable web applications. The part I care about most: taking a product idea from early concept to a working, deployed experience.
