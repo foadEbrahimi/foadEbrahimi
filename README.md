@@ -1,110 +1,93 @@
-# 👨‍💻 Foad Ebrahimi
-### Frontend Developer | React & Next.js Ecosystem
+# FOAD EBRAHIMI ![cursor](https://img.shields.io/badge/%20-%20-E8B04B?style=flat-square)
 
-I’m a Frontend Developer focused on building products, not just interfaces.
+**FRONTEND ENGINEER** — building products, not just interfaces.
 
-I work mainly with React, Next.js, and TypeScript, with a strong interest in clean architecture, performance, SEO, modern UI/UX, and turning ideas into real products.
+![Status](https://img.shields.io/badge/OPEN_TO-REMOTE_ROLES-E8B04B?style=flat-square&labelColor=0A0A0B)
+![Based in](https://img.shields.io/badge/BASED_IN-KERMAN%2C_IR_%C2%B7_UTC%2B3%3A30-161617?style=flat-square&labelColor=0A0A0B)
+![Stack](https://img.shields.io/badge/STACK-REACT_%C2%B7_NEXT.JS_%C2%B7_TYPESCRIPT-161617?style=flat-square&labelColor=0A0A0B)
 
-> **Core Focus:** Building clean, fast, scalable web applications and turning product ideas into working experiences.
+> **CORE FOCUS** — clean, fast, scalable web applications. The part I care about most: taking a product idea from early concept to a working, deployed experience.
 
 ---
 
-## 🚀 What I Do
+## 01 — WHAT I DO
 
 - Build modern web applications with **React, Next.js, and TypeScript**
 - Design clean and responsive interfaces with **Tailwind CSS and shadcn/ui**
-- Build SEO-friendly applications with a focus on **performance and Core Web Vitals**
-- Work with **Supabase** and modern data-fetching/state-management tools
-- Deploy and maintain applications using **Docker, Nginx, and Linux**
+- Ship SEO-friendly applications with a focus on **performance and Core Web Vitals**
+- Work with **Supabase** and modern data-fetching / state-management tools
+- Deploy and maintain applications with **Docker, Nginx, and Linux**
 - Explore product ideas and turn them into real, usable applications
 
 ---
 
-## 💡 Building My Own Ideas
+## 02 — BUILDING MY OWN IDEAS
 
-Some of the projects I care about most are ideas I started myself — projects where the goal goes beyond practicing a technology and focuses on solving a real problem.
+Some of the projects I care about most are ideas I started myself — the goal isn't practicing a technology, it's solving a real problem.
 
-### 🔗 DevSync — Work in Progress
-
+**DEVSYNC** — WORK IN PROGRESS
 A developer-focused platform built around sharing projects, repositories, knowledge, and ideas.
+`NEXT.JS` `TYPESCRIPT` `TAILWIND CSS` `SHADCN/UI` `SUPABASE`
 
-**Tech:** Next.js · TypeScript · Tailwind CSS · shadcn/ui · Supabase
-
-### 📝 Nokteh — formerly BehNashr
-
-A Persian-first educational knowledge platform for organizing and sharing course notes, summaries, articles, and learning resources.
-
-Nokteh started as **BehNashr** and later evolved into a new identity and direction.
-
-**Tech:** Next.js · TypeScript · Tailwind CSS · Supabase
+**NOKTEH** — PERSIAN-FIRST KNOWLEDGE PLATFORM
+Formerly **BehNashr** — evolved into a new identity and direction. Organizing and sharing course notes, summaries, articles, and learning resources.
+`NEXT.JS` `TYPESCRIPT` `TAILWIND CSS` `SUPABASE`
 
 ---
 
-## ⭐ Selected Projects
+## 03 — SELECTED PROJECTS
 
-| Project | Description | Stack |
+| PROJECT | WHAT IT IS | STACK |
 | :--- | :--- | :--- |
-| **DevSync** | Developer-focused platform for projects and knowledge | Next.js · TypeScript · Supabase |
-| **Nokteh** | Persian-first educational knowledge platform | Next.js · TypeScript · Supabase |
-| **Easy-Migration** | Multilingual migration platform with SEO-focused content architecture | Next.js · TypeScript · next-intl |
-| **Vapora** | Modern responsive e-commerce application | Next.js · TypeScript · Tailwind · shadcn/ui |
-| **CoinFlip** | Crypto-focused web application | React / Next.js |
-| **Biterno** | Crypto landing/application project | React / Next.js |
-| **CIC** | Car Insurance Management System built to practice Java & OOP | Java |
+| **DEVSYNC** | Developer-focused platform for projects and knowledge | `NEXT.JS` `TYPESCRIPT` `SUPABASE` |
+| **NOKTEH** | Persian-first educational knowledge platform | `NEXT.JS` `TYPESCRIPT` `SUPABASE` |
+| **EASY-MIGRATION** | Multilingual migration platform with SEO-focused content architecture | `NEXT.JS` `TYPESCRIPT` `NEXT-INTL` |
+| **VAPORA** | Modern responsive e-commerce application | `NEXT.JS` `TYPESCRIPT` `TAILWIND` `SHADCN/UI` |
+| **COINFLIP** | Crypto-focused web application | `REACT` `NEXT.JS` |
+| **BITERNO** | Crypto landing / application project | `REACT` `NEXT.JS` |
+| **CIC** | Car insurance management system built to practice Java & OOP | `JAVA` |
 
 ---
-## 🛠️ Tech Stack & Tooling
 
-| Category | Technologies |
+## 04 — STACK & TOOLING
+
+| CATEGORY | TOOLS |
 | :--- | :--- |
-| **Frontend Core** | ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=TypeScript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black) |
-| **Styling & UI** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=flat&logo=Tailwind-CSS&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000.svg?style=flat&logo=shadcn/ui&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE.svg?style=flat&logo=Astro&logoColor=white) |
-| **Data & Forms** | ![React Query](https://img.shields.io/badge/React_Query-FF4154.svg?style=flat&logo=React-Query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990.svg?style=flat&logo=React-Hook-Form&logoColor=white) ![i18next](https://img.shields.io/badge/i18next-26A69A.svg?style=flat&logo=i18next&logoColor=white) |
-| **Backend & Deployment** | ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=flat&logo=Supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00.svg?style=flat&logo=Firebase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=flat&logo=Nginx&logoColor=white) |
----
-
-## 📈 My Journey
-
-**2023 — Foundations**  
-Started building with JavaScript, React, and Next.js, focusing on fundamentals and real-world frontend projects.
-
-**2024 — Building Applications**  
-Expanded into state management, data fetching, complex forms, internationalization, SEO, and backend-as-a-service platforms.
-
-**2025 — From Projects to Products**  
-Started focusing more on complete applications, performance, deployment, and turning ideas into usable products.
-
-**2026 — Building & Exploring**  
-Currently working on product ideas such as **DevSync** and **Nokteh**, while continuing to improve my frontend architecture, TypeScript, performance, and deployment skills.
+| **FRONTEND CORE** | ![React](https://img.shields.io/badge/REACT-161617?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/NEXT.JS-161617?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-161617?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-161617?style=flat-square&logo=javascript&logoColor=white) |
+| **STYLING & UI** | ![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-161617?style=flat-square&logo=tailwindcss&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/SHADCN_UI-161617?style=flat-square&logo=shadcnui&logoColor=white) ![Astro](https://img.shields.io/badge/ASTRO-161617?style=flat-square&logo=astro&logoColor=white) |
+| **DATA & FORMS** | ![React Query](https://img.shields.io/badge/REACT_QUERY-161617?style=flat-square&logo=reactquery&logoColor=white) ![React Hook Form](https://img.shields.io/badge/REACT_HOOK_FORM-161617?style=flat-square&logo=reacthookform&logoColor=white) ![i18next](https://img.shields.io/badge/I18NEXT-161617?style=flat-square&logo=i18next&logoColor=white) |
+| **BACKEND & DEPLOYMENT** | ![Supabase](https://img.shields.io/badge/SUPABASE-161617?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/FIREBASE-161617?style=flat-square&logo=firebase&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-161617?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/NGINX-161617?style=flat-square&logo=nginx&logoColor=white) |
 
 ---
 
-## 🎯 What I Care About
+## 05 — MY JOURNEY
 
-I enjoy the intersection of **engineering, product thinking, and design**.
+**2023 — FOUNDATIONS** — Started building with JavaScript, React, and Next.js, focusing on fundamentals and real-world frontend projects.
 
-I’m especially interested in projects where I can take an idea from the early concept and architecture all the way to a polished, deployed product.
+**2024 — BUILDING APPLICATIONS** — Expanded into state management, data fetching, complex forms, internationalization, SEO, and backend-as-a-service platforms.
+
+**2025 — PROJECTS TO PRODUCTS** — Focused on complete applications, performance, deployment, and turning ideas into usable products.
+
+**2026 — BUILDING & EXPLORING** — Currently building product ideas such as **DevSync** and **Nokteh**, while sharpening frontend architecture, TypeScript, performance, and deployment skills.
 
 ---
 
-## 🛰️ Let's Connect
+## 06 — WHAT I CARE ABOUT
 
-I’m open to interesting frontend opportunities, collaborations, and conversations around building products.
+> The intersection of **engineering, product thinking, and design** — taking an idea from early concept and architecture all the way to a polished, deployed product.
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/foadebarhimi" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/foadEbrahimii" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:fwad40901@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+---
+
+## 07 — LET'S CONNECT
+
+Open to interesting frontend opportunities, collaborations, and conversations around building products.
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0B?style=for-the-badge&logo=linkedin&logoColor=E8B04B)](https://www.linkedin.com/in/foadebarhimi)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-0A0A0B?style=for-the-badge&logo=telegram&logoColor=E8B04B)](https://t.me/foadEbrahimii)
+[![Gmail](https://img.shields.io/badge/GMAIL-0A0A0B?style=for-the-badge&logo=gmail&logoColor=E8B04B)](mailto:fwad40901@gmail.com)
 
 ---
 
 <div align="center">
-  <sub>Built with curiosity and code by Foad Ebrahimi.</sub>
+  <sub>As always — less is more. Built with curiosity and code by Foad Ebrahimi.</sub>
 </div>
